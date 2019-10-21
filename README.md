@@ -3,7 +3,7 @@ My Name Is Davian and i am a software engineer.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for_
 
 ```markdown
 Syntax highlighted code block
